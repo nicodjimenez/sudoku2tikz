@@ -1,2 +1,4 @@
 *.pdf
 *.tikz
+.pydevproject
+.project
